@@ -10,7 +10,7 @@
     }
 </style>
 <footer>
-    <p>@CopyRight by SINDU DUTHO BUDOYO 2023</p>
+    <p>@CopyRight SMKN 2 TRENGGALEK 2023</p>
 </footer>
 <script src="<?= BASE_URL; ?>/js/bootstrap.js"></script>
 <script src="<?= BASE_URL; ?>/js/script.js"></script>

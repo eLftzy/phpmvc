@@ -7,7 +7,7 @@ class User extends Controller {
         $this->view ("User/index");
         $this->view("templates/footer");
     }
-    public function profile($nama="SINDU DUTHO BUDOYO",$pekerjaan = "PELAJAR"){
+    public function profile($nama="Tobias Yoel Susilo",$pekerjaan = "Pelajar"){
         $data['judul'] = "User";
         $data['nama'] = $nama;
         $data['pekerjaan'] = $pekerjaan;

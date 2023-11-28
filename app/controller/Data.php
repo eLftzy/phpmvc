@@ -1,4 +1,5 @@
 <?php
+
 class Data extends Controller
 {
     public function guru()
